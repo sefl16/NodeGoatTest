@@ -12,7 +12,7 @@ function ResearchHandler(db) {
     this.displayResearch = (req, res) => {
 
         }
-
+        e
         return res.render("research", {
             environmentalScripts
         });
